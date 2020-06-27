@@ -1,0 +1,17 @@
+C:\VS_Project\--MyProjects--\Transaction\Transaction\bin\Debug\Transaction.exe.config
+C:\VS_Project\--MyProjects--\Transaction\Transaction\bin\Debug\Transaction.exe
+C:\VS_Project\--MyProjects--\Transaction\Transaction\bin\Debug\Transaction.pdb
+C:\VS_Project\--MyProjects--\Transaction\Transaction\obj\Debug\Transaction.csprojAssemblyReference.cache
+C:\VS_Project\--MyProjects--\Transaction\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+C:\VS_Project\--MyProjects--\Transaction\Transaction\obj\Debug\Transaction.exe
+C:\VS_Project\--MyProjects--\Transaction\Transaction\obj\Debug\Transaction.pdb
+E:\Repos\--Projects--\Transaction\Transaction\bin\Debug\Transaction.exe.config
+E:\Repos\--Projects--\Transaction\Transaction\bin\Debug\Transaction.exe
+E:\Repos\--Projects--\Transaction\Transaction\bin\Debug\Transaction.pdb
+E:\Repos\--Projects--\Transaction\Transaction\obj\Debug\Transaction.csprojAssemblyReference.cache
+E:\Repos\--Projects--\Transaction\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+E:\Repos\--Projects--\Transaction\Transaction\obj\Debug\Transaction.exe
+E:\Repos\--Projects--\Transaction\Transaction\obj\Debug\Transaction.pdb
+E:\Repos\--Projects--\Transaction\Transaction\bin\Debug\Newtonsoft.Json.dll
+E:\Repos\--Projects--\Transaction\Transaction\bin\Debug\Newtonsoft.Json.xml
+E:\Repos\--Projects--\Transaction\Transaction\obj\Debug\Transaction.csproj.CopyComplete
