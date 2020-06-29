@@ -15,3 +15,13 @@ E:\Repos\--Projects--\Transaction\Transaction\obj\Debug\Transaction.pdb
 E:\Repos\--Projects--\Transaction\Transaction\bin\Debug\Newtonsoft.Json.dll
 E:\Repos\--Projects--\Transaction\Transaction\bin\Debug\Newtonsoft.Json.xml
 E:\Repos\--Projects--\Transaction\Transaction\obj\Debug\Transaction.csproj.CopyComplete
+E:\Repos\Transaction\Transaction\Transaction\bin\Debug\Transaction.exe.config
+E:\Repos\Transaction\Transaction\Transaction\bin\Debug\Transaction.exe
+E:\Repos\Transaction\Transaction\Transaction\bin\Debug\Transaction.pdb
+E:\Repos\Transaction\Transaction\Transaction\bin\Debug\Newtonsoft.Json.dll
+E:\Repos\Transaction\Transaction\Transaction\bin\Debug\Newtonsoft.Json.xml
+E:\Repos\Transaction\Transaction\Transaction\obj\Debug\Transaction.csprojAssemblyReference.cache
+E:\Repos\Transaction\Transaction\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+E:\Repos\Transaction\Transaction\Transaction\obj\Debug\Transaction.csproj.CopyComplete
+E:\Repos\Transaction\Transaction\Transaction\obj\Debug\Transaction.exe
+E:\Repos\Transaction\Transaction\Transaction\obj\Debug\Transaction.pdb
