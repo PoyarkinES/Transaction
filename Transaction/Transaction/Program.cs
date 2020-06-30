@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using Transaction.Enum;
 using Transaction.Factory;
@@ -36,7 +35,7 @@ namespace Transaction
 
         private static void Exit()
         {
-            System.Environment.Exit(0);
+            Environment.Exit(0);
         }
 
         private static string ShowCommand()
