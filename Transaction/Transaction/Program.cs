@@ -12,8 +12,7 @@ namespace Transaction
     {
         static void Main(string[] args)
         {
-            var creator = new CreateService();
-            var service = creator.CreateTransaction();
+            var service = new ServiceFactory<TransactionService>().CreateTransaction();
 
             var cmd = ShowCommand();
             do

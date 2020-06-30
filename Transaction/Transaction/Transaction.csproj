@@ -47,8 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Enum\CommandEnum.cs" />
-    <Compile Include="Factory\CreateService.cs" />
-    <Compile Include="Factory\ICreateService.cs" />
+    <Compile Include="Factory\ServiceFactory.cs" />
+    <Compile Include="Factory\IServiceFactory.cs" />
     <Compile Include="Helper\Helper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

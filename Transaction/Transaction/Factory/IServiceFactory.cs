@@ -7,8 +7,8 @@ using Transaction.Service;
 
 namespace Transaction.Factory
 {
-    public interface ICreateService
+    public interface IServiceFactory<T> where T : IService
     {
-        IService CreateTransaction();
+        T CreateTransaction();
     }
 }
